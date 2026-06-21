@@ -27,7 +27,7 @@ int cla_validation(int argc, char *argv[]){
     // Validate operator
     if(strcmp(oper,"+") != 0 && strcmp(oper,"-") != 0 && strcmp(oper,"x") != 0 && strcmp(oper,"/") != 0 && strcmp(oper,"X") != 0 && strcmp(oper,"%") != 0 && strcmp(oper,"^") != 0){
         fprintf(stderr,"ERROR: %s : Invalid operator\n",oper);
-        fprintf(stderr,"USAGE: Use only operators +,-,x,/ \n");
+        fprintf(stderr,"USAGE: Use only operators +,-,x,X,/,%%,^ \n");
         return FAILURE;
     }
     return SUCCESS;
