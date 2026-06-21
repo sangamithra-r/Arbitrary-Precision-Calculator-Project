@@ -31,7 +31,7 @@ Example :
 * tail points to the Least Significant Digit.
 * Arithmetic operations begin from the tail.
 
-Command : ./a.out operand1 operator operand2
+Command : ./a.out <operand1> <operator> <operand2>
 
 
 ## Project Structure
