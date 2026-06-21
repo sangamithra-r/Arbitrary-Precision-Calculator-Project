@@ -108,6 +108,7 @@ $ ./a.out 2 ^ 10
 
 ## Author
 Sangamithra R
-Electronics & Communication Engineering Graduate | Interested in Embedded Systems, Firmware Development, C Programming, and Data Structures.
+
+Electronics & Communication Engineering Graduate 
 
 GitHub: https://github.com/sangamithra-r
