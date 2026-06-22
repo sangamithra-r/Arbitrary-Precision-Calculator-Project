@@ -105,6 +105,17 @@ $ ./a.out 2 ^ 10
 * Algorithm Design
 * Big Integer Arithmetic
 
+## Time Complexity
+
+|   Operation    |      Complexity     |
+|----------------|---------------------|
+| Addition       |         O(n)        |
+| Subtraction    |         O(n)        |
+| Multiplication |         O(n²)       |
+| Division       |         O(n²)       |
+| Modulus        |         O(n²)       |
+| Power          | Depends on exponent |
+
 
 ## Author
 Sangamithra R
